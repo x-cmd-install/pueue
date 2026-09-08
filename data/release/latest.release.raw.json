@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2143736,
       "digest": "sha256:c1b10d7e4e62211075ddd0e1dc3e8cbfc5a43d662cb3be7402a28504e23fcb51",
-      "download_count": 6545,
+      "download_count": 6560,
       "created_at": "2026-03-02T12:25:36Z",
       "updated_at": "2026-03-02T12:25:36Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-unknown-linux-musl"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2115760,
       "digest": "sha256:5afeff6adbafb909e8d54e2caff158e6966c2adffa2c09e60fd631cc51b60390",
-      "download_count": 5445,
+      "download_count": 5459,
       "created_at": "2026-03-02T12:25:37Z",
       "updated_at": "2026-03-02T12:25:37Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-linux-musl"
