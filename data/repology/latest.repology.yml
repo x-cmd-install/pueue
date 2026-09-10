@@ -1,0 +1,933 @@
+- repo: liguros_stable
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 3.4.1
+  origversion: null
+  status: legacy
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: Command-line tool for managing long-running shell commands
+- repo: alpine_3_17
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 2.1.0
+  origversion: 2.1.0-r1
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 2.1.0
+  origversion: 2.1.0-r1
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 2.1.0
+  origversion: 2.1.0-r1
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 2.1.0
+  origversion: 2.1.0-r1
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.1.2
+  origversion: 3.1.2-r0
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.1.2
+  origversion: 3.1.2-r0
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.1.2
+  origversion: 3.1.2-r0
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.1.2
+  origversion: 3.1.2-r0
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.3.2
+  origversion: 3.3.2-r0
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.3.2
+  origversion: 3.3.2-r0
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.3.2
+  origversion: 3.3.2-r0
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.3.2
+  origversion: 3.3.2-r0
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.4.0
+  origversion: 3.4.0-r0
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.4.0
+  origversion: 3.4.0-r0
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.4.0
+  origversion: 3.4.0-r0
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.4.0
+  origversion: 3.4.0-r0
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 3.4.1
+  origversion: 3.4.1-r1
+  status: outdated
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Manage your shell commands
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: pueue
+  visiblename: pueue
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line tool for managing long-running shell commands
+- repo: alpine_edge
+  subrepo: community
+  srcname: pueue
+  binname: pueue-bash-completion
+  visiblename: pueue-bash-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Bash completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: pueue
+  binname: pueue-fish-completion
+  visiblename: pueue-fish-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Fish completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: pueue
+  binname: pueue-zsh-completion
+  visiblename: pueue-zsh-completion
+  version: 4.0.4
+  origversion: 4.0.4-r1
+  status: newest
+  summary: Zsh completions for pueue
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-1
+  status: newest
+  summary: A CLI tool for managing long running shell commands
+  licenses:
+    - MIT
+- repo: aur
+  srcname: pueue-git
+  binname: pueue-git
+  visiblename: pueue-git
+  version: 4.0.0.rc.1.r10.g1ff5ce4
+  origversion: 4.0.0.rc.1.r10.g1ff5ce4-1
+  status: rolling
+  summary: A task manager and scheduler for shell commands
+  maintainers:
+    - nukesor@aur
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: A cli tool for managing long running shell commands.
+- repo: freebsd
+  srcname: deskutils/pueue
+  binname: pueue
+  visiblename: deskutils/pueue
+  version: 4.0.4
+  origversion: 4.0.4_5
+  status: newest
+  summary: Shell commands manager
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - deskutils
+- repo: gentoo_ovl_guru
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.0
+  origversion: null
+  status: legacy
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.2
+  origversion: null
+  status: legacy
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: gnuguix
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: Task management for sequential and parallel execution of long-running tasks
+- repo: liguros_stable
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.2
+  origversion: null
+  status: legacy
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/pueue
+  visiblename: app-misc/pueue
+  version: 4.0.0
+  origversion: null
+  status: legacy
+  summary: A cli tool for managing long running shell commands.
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+  categories:
+    - app-misc
+- repo: macports
+  srcname: sysutils/pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: A CLI task management tool for sequential and parallel execution of long-running tasks.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-1
+  status: newest
+  summary: A CLI tool for managing long running shell commands
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-1
+  status: newest
+  summary: A CLI tool for managing long running shell commands
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-1
+  status: newest
+  summary: A CLI tool for managing long running shell commands
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: pueue
+  visiblename: pueue
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  summary: A daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: pueue
+  visiblename: pueue
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: Daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.1
+  origversion: null
+  status: outdated
+  summary: Daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: Daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: Daemon for managing long running shell commands
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: pueue
+  binnames:
+    - pueue
+    - pueue-debuginfo
+    - pueue-debugsource
+    - pueue-fish-completion
+    - pueue-bash-completion
+    - pueue-zsh-completion
+  visiblename: pueue
+  version: 3.4.1
+  origversion: 3.4.1-1.8
+  status: outdated
+  summary: Command-line task management tool for sequential and parallel execution
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: 4.0.4-1
+  status: newest
+  summary: A CLI tool for managing long running shell commands
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: sysutils/pueue
+  binname: pueue
+  visiblename: sysutils/pueue
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_2
+  srcname: sysutils/pueue
+  binname: pueue
+  visiblename: sysutils/pueue
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/pueue
+  binname: pueue
+  visiblename: sysutils/pueue
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Manage your shell commands
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: scoop
+  subrepo: main
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: solus
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: A command-line task management tool for sequential and parallel execution of long-running tasks
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - MIT
+  categories:
+    - system.utils
+- repo: solus
+  srcname: pueue
+  binname: pueue-dbginfo
+  visiblename: pueue-dbginfo
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: Debug symbols for pueue
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - MIT
+  categories:
+    - debug
+- repo: spack
+  srcname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  maintainers:
+    - ebagrenrut@spack
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: termux
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.4
+  origversion: null
+  status: newest
+  summary: A command-line task management tool for sequential and parallel execution of long-running tasks
+  maintainers:
+    - stevenxxiu@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: pueue
+  binname: pueue
+  visiblename: pueue
+  version: 4.0.1
+  origversion: 4.0.1_1
+  status: outdated
+  summary: Command-line tool for managing long-running tasks
+  maintainers:
+    - void@qwertyuiop.de
+  licenses:
+    - MIT
