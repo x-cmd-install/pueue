@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.0.4"
   latestRelease: "v4.0.4"
   latestPrerelease: "v4.0.0-rc.3"
-  collectedAt: 2026-09-11T06:14:39Z
+  collectedAt: 2026-09-11T18:39:59Z
 timeline:
   created: 2015-09-04
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-02
   lastPrerelease: 2025-02-17
 popularity:
-  star: 6325
+  star: 6327
   watcher: 17
   fork: 162
   release: 91
@@ -85,7 +85,7 @@ total:
   commit: 2036
 ---
 path: /home/runner/.x-repo/github.com/Nukesor/pueue
-collectedAt: 2026-09-11T06:14:40Z
+collectedAt: 2026-09-11T18:40:00Z
 loc:
   Rust:
     code: 13100
