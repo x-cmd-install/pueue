@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,325 · **Forks**: 162 · **Open issues**: 383 · **Contributors**: 48
+- **Stars**: 6,327 · **Forks**: 162 · **Open issues**: 383 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -108,4 +108,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:14:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:40:07Z._
