@@ -26,11 +26,11 @@ x install pueue
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.6 / 10**
+总评分: **3.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 4/17 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -47,7 +47,7 @@ x install pueue
 
 ## 流行度
 
-- **Star**: 6,331 · **Fork**: 162 · **开放 issue**: 383 · **贡献者**: 48
+- **Star**: 6,333 · **Fork**: 162 · **开放 issue**: 383 · **贡献者**: 48
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install pueue
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 3 | 1 | 1 | 1 | 3 |
-| last60d | 2026-07-16 | 0 | 4 | 2 | 2 | 1 | 12 |
-| 90d | 2026-06-16 | 0 | 4 | 2 | 2 | 1 | 13 |
-| last180d | 2026-03-18 | 0 | 5 | 2 | 4 | 3 | 14 |
-| 360d | 2025-09-19 | 4 | 9 | 3 | 11 | 12 | 44 |
-| last720d | 2024-09-24 | 12 | 53 | 3 | 36 | 16 | 226 |
+| 30d | 2026-08-16 | 0 | 1 | 1 | 1 | 1 | 3 |
+| last60d | 2026-07-17 | 0 | 4 | 2 | 2 | 1 | 12 |
+| 90d | 2026-06-17 | 0 | 4 | 2 | 2 | 1 | 13 |
+| last180d | 2026-03-19 | 0 | 5 | 2 | 4 | 3 | 14 |
+| 360d | 2025-09-20 | 4 | 9 | 3 | 11 | 12 | 44 |
+| last720d | 2024-09-25 | 12 | 53 | 3 | 36 | 16 | 226 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ pueue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T06:16:52Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T06:16:03Z._
