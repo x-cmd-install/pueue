@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,385 · **Forks**: 168 · **Open issues**: 385 · **Contributors**: 48
+- **Stars**: 6,387 · **Forks**: 168 · **Open issues**: 386 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 257 · **Open PRs**: 4 · **Closed issues**: 367 · **Open issues**: 18 · **Commits**: 2036
+- **Releases**: 91 · **Merged PRs**: 257 · **Open PRs**: 4 · **Closed issues**: 367 · **Open issues**: 19 · **Commits**: 2036
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 1 | 2 | 2 | 3 |
-| 90d | 2026-07-24 | 0 | 4 | 3 | 3 | 2 | 12 |
-| last180d | 2026-04-25 | 0 | 5 | 3 | 5 | 4 | 14 |
-| 360d | 2025-10-27 | 4 | 9 | 4 | 10 | 13 | 44 |
-| last720d | 2024-11-01 | 12 | 52 | 4 | 34 | 16 | 218 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 1 | 2 | 3 | 3 |
+| 90d | 2026-07-25 | 0 | 4 | 3 | 3 | 3 | 12 |
+| last180d | 2026-04-26 | 0 | 5 | 3 | 5 | 5 | 14 |
+| 360d | 2025-10-28 | 4 | 9 | 4 | 10 | 14 | 44 |
+| last720d | 2024-11-02 | 12 | 52 | 4 | 34 | 17 | 218 |
 
 ## Release assets
 
@@ -86,6 +86,19 @@ Lowest-scoring checks:
 | [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-linux-musl) | 2.0 MiB | `native/linux/x64/musl` |
 | [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.4/systemd.pueued.service) | 340 B | `other` |
 
+## Distribution status
+
+Reported by **73** distros on [repology.org](https://repology.org/project/pueue). **26** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `4.0.4` | ✅ latest |
+| Homebrew | `4.0.4` | ✅ latest |
+| Nix unstable | `4.0.4` | ✅ latest |
+| Void | `4.0.1` | ⚠️ outdated |
+| Alpine edge | `4.0.4` | ✅ latest |
+| openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pueue` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +108,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:38:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:41:11Z._
