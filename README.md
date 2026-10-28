@@ -14,11 +14,11 @@ x install pueue
 
 ## Code insight
 
-Total: **13,731** lines of code across **184** files in the top 5 languages.
+Total: **13,739** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,100 | 1,573 | 2,822 | 174 |
+| Rust | 13,108 | 1,573 | 2,822 | 174 |
 | Toml | 252 | 12 | 23 | 5 |
 | Json | 250 | 0 | 0 | 2 |
 | Pest | 46 | 13 | 15 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.4` (2026-03-02)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-10-27
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 6,391 · **Forks**: 169 · **Open issues**: 386 · **Contributors**: 48
+- **Stars**: 6,396 · **Forks**: 169 · **Open issues**: 386 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 257 · **Open PRs**: 4 · **Closed issues**: 367 · **Open issues**: 19 · **Commits**: 2036
+- **Releases**: 91 · **Merged PRs**: 258 · **Open PRs**: 4 · **Closed issues**: 367 · **Open issues**: 19 · **Commits**: 2039
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-28 | 0 | 1 | 1 | 1 | 3 | 3 |
-| 90d | 2026-07-29 | 0 | 3 | 3 | 3 | 3 | 6 |
-| last180d | 2026-04-30 | 0 | 4 | 3 | 5 | 5 | 13 |
-| 360d | 2025-11-01 | 4 | 9 | 4 | 10 | 13 | 44 |
-| last720d | 2024-11-06 | 12 | 52 | 4 | 33 | 17 | 218 |
+| 30d | 2026-09-28 | 0 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-08-29 | 0 | 2 | 1 | 1 | 3 | 5 |
+| 90d | 2026-07-30 | 0 | 4 | 3 | 3 | 3 | 8 |
+| last180d | 2026-05-01 | 0 | 5 | 3 | 5 | 5 | 15 |
+| 360d | 2025-11-02 | 4 | 10 | 4 | 10 | 13 | 46 |
+| last720d | 2024-11-07 | 12 | 53 | 4 | 33 | 17 | 220 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:09:45Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:38:40Z._
