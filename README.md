@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,396 · **Forks**: 169 · **Open issues**: 386 · **Contributors**: 48
+- **Stars**: 6,400 · **Forks**: 169 · **Open issues**: 386 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 1 | 0 | 2 | 2 |
-| last60d | 2026-08-29 | 0 | 2 | 1 | 1 | 3 | 5 |
-| 90d | 2026-07-30 | 0 | 4 | 3 | 3 | 3 | 8 |
-| last180d | 2026-05-01 | 0 | 5 | 3 | 5 | 5 | 15 |
-| 360d | 2025-11-02 | 4 | 10 | 4 | 10 | 13 | 46 |
-| last720d | 2024-11-07 | 12 | 53 | 4 | 33 | 17 | 220 |
+| 30d | 2026-09-29 | 0 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-08-30 | 0 | 2 | 1 | 1 | 3 | 5 |
+| 90d | 2026-07-31 | 0 | 4 | 2 | 3 | 3 | 8 |
+| last180d | 2026-05-02 | 0 | 5 | 3 | 5 | 4 | 15 |
+| 360d | 2025-11-03 | 4 | 10 | 4 | 10 | 13 | 46 |
+| last720d | 2024-11-08 | 12 | 53 | 4 | 33 | 17 | 220 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:38:40Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:44:51Z._
