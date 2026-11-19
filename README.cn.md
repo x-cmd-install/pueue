@@ -14,12 +14,12 @@ x install pueue
 
 ## 代码洞察
 
-合计: **13,739** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
+合计: **13,777** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 13,108 | 1,573 | 2,822 | 174 |
-| Toml | 252 | 12 | 23 | 5 |
+| Rust | 13,143 | 1,580 | 2,831 | 174 |
+| Toml | 255 | 13 | 25 | 5 |
 | Json | 250 | 0 | 0 | 2 |
 | Pest | 46 | 13 | 15 | 1 |
 | Yaml | 43 | 2 | 1 | 2 |
@@ -41,62 +41,60 @@ x install pueue
 
 ## 发布
 
-- **最新版本**: `v4.0.4` (2026-03-02)
-- **最近提交**: 2026-10-27
-- **Release 含资产**: 17 个
+- **最新版本**: `v4.0.5` (2026-11-18)
+- **最近提交**: 2026-11-18
+- **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 6,431 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
+- **Star**: 6,435 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
 
 ## 累计统计
 
-- **发布数**: 91 · **已合并 PR**: 258 · **开放 PR**: 4 · **已关闭 issue**: 367 · **开放 issue**: 19 · **提交数**: 2039
+- **发布数**: 92 · **已合并 PR**: 261 · **开放 PR**: 2 · **已关闭 issue**: 367 · **开放 issue**: 19 · **提交数**: 2049
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 0 | 0 | 1 | 2 |
-| last60d | 2026-09-18 | 0 | 1 | 1 | 1 | 2 | 2 |
-| 90d | 2026-08-19 | 0 | 2 | 1 | 2 | 3 | 5 |
-| last180d | 2026-05-21 | 0 | 5 | 3 | 4 | 3 | 15 |
-| 360d | 2025-11-22 | 4 | 10 | 4 | 9 | 11 | 46 |
-| last720d | 2024-11-27 | 12 | 52 | 4 | 32 | 17 | 215 |
+| 30d | 2026-10-20 | 1 | 4 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-20 | 1 | 4 | 0 | 1 | 2 | 9 |
+| 90d | 2026-08-21 | 1 | 5 | 0 | 2 | 3 | 12 |
+| last180d | 2026-05-23 | 1 | 8 | 1 | 4 | 3 | 22 |
+| 360d | 2025-11-24 | 5 | 13 | 2 | 9 | 11 | 53 |
+| last720d | 2024-11-29 | 13 | 54 | 2 | 29 | 17 | 223 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [pueue-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-aarch64-apple-darwin) | 5.0 MiB | `native/darwin/arm64` |
-| [pueue-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-aarch64-unknown-linux-musl) | 1.7 MiB | `native/linux/arm64/musl` |
-| [pueue-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-arm-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueue-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-armv7-unknown-linux-musleabihf) | 1.7 MiB | `native/linux/arm/musl` |
-| [pueue-x86_64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-apple-darwin) | 5.6 MiB | `native/darwin/x64` |
-| [pueue-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-pc-windows-msvc.exe) | 6.2 MiB | `native/win/x64` |
-| [pueue-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-unknown-freebsd) | 6.0 MiB | `other` |
-| [pueue-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-unknown-linux-musl) | 2.0 MiB | `native/linux/x64/musl` |
-| [pueued-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-aarch64-apple-darwin) | 4.8 MiB | `native/darwin/arm64` |
-| [pueued-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-aarch64-unknown-linux-musl) | 1.7 MiB | `native/linux/arm64/musl` |
-| [pueued-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-arm-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueued-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-armv7-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueued-x86_64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-apple-darwin) | 5.3 MiB | `native/darwin/x64` |
-| [pueued-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-pc-windows-msvc.exe) | 5.4 MiB | `native/win/x64` |
-| [pueued-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-freebsd) | 5.6 MiB | `other` |
-| [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-linux-musl) | 2.0 MiB | `native/linux/x64/musl` |
-| [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.4/systemd.pueued.service) | 340 B | `other` |
+| [pueue-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-apple-darwin) | 6.1 MiB | `native/darwin/arm64` |
+| [pueue-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-unknown-linux-musl) | 2.0 MiB | `native/linux/arm64/musl` |
+| [pueue-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-arm-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueue-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-armv7-unknown-linux-musleabihf) | 2.0 MiB | `native/linux/arm/musl` |
+| [pueue-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-pc-windows-msvc.exe) | 7.8 MiB | `native/win/x64` |
+| [pueue-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-freebsd) | 7.1 MiB | `other` |
+| [pueue-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
+| [pueued-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-apple-darwin) | 5.9 MiB | `native/darwin/arm64` |
+| [pueued-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-unknown-linux-musl) | 2.0 MiB | `native/linux/arm64/musl` |
+| [pueued-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-arm-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueued-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-armv7-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueued-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-pc-windows-msvc.exe) | 7.0 MiB | `native/win/x64` |
+| [pueued-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-freebsd) | 6.8 MiB | `other` |
+| [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
+| [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.5/systemd.pueued.service) | 340 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/pueue) 上共有 **73** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**40** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/pueue) 上共有 **73** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**60** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `4.0.4` | ✅ latest |
-| Homebrew | `4.0.4` | ✅ latest |
-| Nix unstable | `4.0.4` | ✅ latest |
+| Arch | `4.0.5` | ✅ latest |
+| Homebrew | `4.0.5` | ✅ latest |
+| Nix unstable | `4.0.4` | ⚠️ outdated |
 | Void | `4.0.1` | ⚠️ outdated |
-| Alpine edge | `4.0.4` | ✅ latest |
+| Alpine edge | `4.0.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -108,4 +106,4 @@ pueue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:07:24Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:05:59Z._

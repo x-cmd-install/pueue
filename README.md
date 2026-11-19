@@ -14,12 +14,12 @@ x install pueue
 
 ## Code insight
 
-Total: **13,739** lines of code across **184** files in the top 5 languages.
+Total: **13,777** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,108 | 1,573 | 2,822 | 174 |
-| Toml | 252 | 12 | 23 | 5 |
+| Rust | 13,143 | 1,580 | 2,831 | 174 |
+| Toml | 255 | 13 | 25 | 5 |
 | Json | 250 | 0 | 0 | 2 |
 | Pest | 46 | 13 | 15 | 1 |
 | Yaml | 43 | 2 | 1 | 2 |
@@ -41,62 +41,60 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.0.4` (2026-03-02)
-- **Last commit**: 2026-10-27
-- **Assets in release**: 17
+- **Latest**: `v4.0.5` (2026-11-18)
+- **Last commit**: 2026-11-18
+- **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 6,431 · **Forks**: 170 · **Open issues**: 386 · **Contributors**: 48
+- **Stars**: 6,435 · **Forks**: 170 · **Open issues**: 386 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 258 · **Open PRs**: 4 · **Closed issues**: 367 · **Open issues**: 19 · **Commits**: 2039
+- **Releases**: 92 · **Merged PRs**: 261 · **Open PRs**: 2 · **Closed issues**: 367 · **Open issues**: 19 · **Commits**: 2049
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 0 | 0 | 1 | 2 |
-| last60d | 2026-09-18 | 0 | 1 | 1 | 1 | 2 | 2 |
-| 90d | 2026-08-19 | 0 | 2 | 1 | 2 | 3 | 5 |
-| last180d | 2026-05-21 | 0 | 5 | 3 | 4 | 3 | 15 |
-| 360d | 2025-11-22 | 4 | 10 | 4 | 9 | 11 | 46 |
-| last720d | 2024-11-27 | 12 | 52 | 4 | 32 | 17 | 215 |
+| 30d | 2026-10-20 | 1 | 4 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-20 | 1 | 4 | 0 | 1 | 2 | 9 |
+| 90d | 2026-08-21 | 1 | 5 | 0 | 2 | 3 | 12 |
+| last180d | 2026-05-23 | 1 | 8 | 1 | 4 | 3 | 22 |
+| 360d | 2025-11-24 | 5 | 13 | 2 | 9 | 11 | 53 |
+| last720d | 2024-11-29 | 13 | 54 | 2 | 29 | 17 | 223 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pueue-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-aarch64-apple-darwin) | 5.0 MiB | `native/darwin/arm64` |
-| [pueue-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-aarch64-unknown-linux-musl) | 1.7 MiB | `native/linux/arm64/musl` |
-| [pueue-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-arm-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueue-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-armv7-unknown-linux-musleabihf) | 1.7 MiB | `native/linux/arm/musl` |
-| [pueue-x86_64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-apple-darwin) | 5.6 MiB | `native/darwin/x64` |
-| [pueue-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-pc-windows-msvc.exe) | 6.2 MiB | `native/win/x64` |
-| [pueue-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-unknown-freebsd) | 6.0 MiB | `other` |
-| [pueue-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueue-x86_64-unknown-linux-musl) | 2.0 MiB | `native/linux/x64/musl` |
-| [pueued-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-aarch64-apple-darwin) | 4.8 MiB | `native/darwin/arm64` |
-| [pueued-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-aarch64-unknown-linux-musl) | 1.7 MiB | `native/linux/arm64/musl` |
-| [pueued-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-arm-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueued-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-armv7-unknown-linux-musleabihf) | 1.6 MiB | `native/linux/arm/musl` |
-| [pueued-x86_64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-apple-darwin) | 5.3 MiB | `native/darwin/x64` |
-| [pueued-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-pc-windows-msvc.exe) | 5.4 MiB | `native/win/x64` |
-| [pueued-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-freebsd) | 5.6 MiB | `other` |
-| [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.4/pueued-x86_64-unknown-linux-musl) | 2.0 MiB | `native/linux/x64/musl` |
-| [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.4/systemd.pueued.service) | 340 B | `other` |
+| [pueue-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-apple-darwin) | 6.1 MiB | `native/darwin/arm64` |
+| [pueue-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-unknown-linux-musl) | 2.0 MiB | `native/linux/arm64/musl` |
+| [pueue-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-arm-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueue-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-armv7-unknown-linux-musleabihf) | 2.0 MiB | `native/linux/arm/musl` |
+| [pueue-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-pc-windows-msvc.exe) | 7.8 MiB | `native/win/x64` |
+| [pueue-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-freebsd) | 7.1 MiB | `other` |
+| [pueue-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
+| [pueued-aarch64-apple-darwin](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-apple-darwin) | 5.9 MiB | `native/darwin/arm64` |
+| [pueued-aarch64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-unknown-linux-musl) | 2.0 MiB | `native/linux/arm64/musl` |
+| [pueued-arm-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-arm-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueued-armv7-unknown-linux-musleabihf](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-armv7-unknown-linux-musleabihf) | 1.9 MiB | `native/linux/arm/musl` |
+| [pueued-x86_64-pc-windows-msvc.exe](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-pc-windows-msvc.exe) | 7.0 MiB | `native/win/x64` |
+| [pueued-x86_64-unknown-freebsd](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-freebsd) | 6.8 MiB | `other` |
+| [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
+| [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.5/systemd.pueued.service) | 340 B | `other` |
 
 ## Distribution status
 
-Reported by **73** distros on [repology.org](https://repology.org/project/pueue). **26** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **73** distros on [repology.org](https://repology.org/project/pueue). **6** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `4.0.4` | ✅ latest |
-| Homebrew | `4.0.4` | ✅ latest |
-| Nix unstable | `4.0.4` | ✅ latest |
+| Arch | `4.0.5` | ✅ latest |
+| Homebrew | `4.0.5` | ✅ latest |
+| Nix unstable | `4.0.4` | ⚠️ outdated |
 | Void | `4.0.1` | ⚠️ outdated |
-| Alpine edge | `4.0.4` | ✅ latest |
+| Alpine edge | `4.0.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -108,4 +106,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:07:23Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:05:58Z._
