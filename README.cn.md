@@ -47,7 +47,7 @@ x install pueue
 
 ## 流行度
 
-- **Star**: 6,435 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
+- **Star**: 6,434 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install pueue
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 4 | 0 | 0 | 1 | 9 |
-| last60d | 2026-09-20 | 1 | 4 | 0 | 1 | 2 | 9 |
-| 90d | 2026-08-21 | 1 | 5 | 0 | 2 | 3 | 12 |
-| last180d | 2026-05-23 | 1 | 8 | 1 | 4 | 3 | 22 |
-| 360d | 2025-11-24 | 5 | 13 | 2 | 9 | 11 | 53 |
-| last720d | 2024-11-29 | 13 | 54 | 2 | 29 | 17 | 223 |
+| 30d | 2026-10-21 | 1 | 4 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-21 | 1 | 4 | 0 | 1 | 2 | 9 |
+| 90d | 2026-08-22 | 1 | 5 | 0 | 2 | 3 | 12 |
+| last180d | 2026-05-24 | 1 | 8 | 1 | 4 | 3 | 22 |
+| 360d | 2025-11-25 | 5 | 13 | 2 | 9 | 11 | 53 |
+| last720d | 2024-11-30 | 13 | 54 | 2 | 29 | 17 | 223 |
 
 ## Release 资产
 
@@ -86,13 +86,13 @@ x install pueue
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/pueue) 上共有 **73** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**60** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/pueue) 上共有 **73** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `4.0.5` | ✅ latest |
 | Homebrew | `4.0.5` | ✅ latest |
-| Nix unstable | `4.0.4` | ⚠️ outdated |
+| Nix unstable | `4.0.5` | ✅ latest |
 | Void | `4.0.1` | ⚠️ outdated |
 | Alpine edge | `4.0.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
@@ -106,4 +106,4 @@ pueue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T10:05:59Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T08:53:44Z._

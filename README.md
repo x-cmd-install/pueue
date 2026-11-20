@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,435 · **Forks**: 170 · **Open issues**: 386 · **Contributors**: 48
+- **Stars**: 6,434 · **Forks**: 170 · **Open issues**: 386 · **Contributors**: 48
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 4 | 0 | 0 | 1 | 9 |
-| last60d | 2026-09-20 | 1 | 4 | 0 | 1 | 2 | 9 |
-| 90d | 2026-08-21 | 1 | 5 | 0 | 2 | 3 | 12 |
-| last180d | 2026-05-23 | 1 | 8 | 1 | 4 | 3 | 22 |
-| 360d | 2025-11-24 | 5 | 13 | 2 | 9 | 11 | 53 |
-| last720d | 2024-11-29 | 13 | 54 | 2 | 29 | 17 | 223 |
+| 30d | 2026-10-21 | 1 | 4 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-21 | 1 | 4 | 0 | 1 | 2 | 9 |
+| 90d | 2026-08-22 | 1 | 5 | 0 | 2 | 3 | 12 |
+| last180d | 2026-05-24 | 1 | 8 | 1 | 4 | 3 | 22 |
+| 360d | 2025-11-25 | 5 | 13 | 2 | 9 | 11 | 53 |
+| last720d | 2024-11-30 | 13 | 54 | 2 | 29 | 17 | 223 |
 
 ## Release assets
 
@@ -86,13 +86,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **73** distros on [repology.org](https://repology.org/project/pueue). **6** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
+Reported by **73** distros on [repology.org](https://repology.org/project/pueue). **9** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `4.0.5` | ✅ latest |
 | Homebrew | `4.0.5` | ✅ latest |
-| Nix unstable | `4.0.4` | ⚠️ outdated |
+| Nix unstable | `4.0.5` | ✅ latest |
 | Void | `4.0.1` | ⚠️ outdated |
 | Alpine edge | `4.0.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
@@ -106,4 +106,4 @@ Install metadata for pueue lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:05:58Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:53:44Z._
