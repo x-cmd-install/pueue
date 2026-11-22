@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6350944,
       "digest": "sha256:7b3bedb2ea9903250a741eb41fba29c6e5a066b34ae34d43eefaeb9713585c45",
-      "download_count": 32,
+      "download_count": 39,
       "created_at": "2026-11-18T15:55:35Z",
       "updated_at": "2026-11-18T15:55:36Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-apple-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2136892,
       "digest": "sha256:745a34f73719636dbb2b37b44e08c47f011dc46c13e49b84646abf3b88c7d3f5",
-      "download_count": 132,
+      "download_count": 142,
       "created_at": "2026-11-18T15:35:49Z",
       "updated_at": "2026-11-18T15:35:50Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-aarch64-unknown-linux-musl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2007736,
       "digest": "sha256:ed138dc2e56317584538bef5aab06e9f9d473ef1345bf95e4ededf2eec1c6033",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-18T15:36:01Z",
       "updated_at": "2026-11-18T15:36:01Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-arm-unknown-linux-musleabihf"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2049268,
       "digest": "sha256:8b6f14e583df85a817af37de424a508a9fdfabd7c9752c7dccbe1c68d538ebd3",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-18T15:36:18Z",
       "updated_at": "2026-11-18T15:36:19Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-armv7-unknown-linux-musleabihf"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8215040,
       "digest": "sha256:398cc179b732724bb901791b6ecc2938ac36be8fd408291299e832b7d43c80ee",
-      "download_count": 105,
+      "download_count": 132,
       "created_at": "2026-11-18T15:34:46Z",
       "updated_at": "2026-11-18T15:34:47Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-pc-windows-msvc.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7448264,
       "digest": "sha256:bd3936f6e6b0becd5bc06144ee49f6474d7f339afa27890fbdcd2a95466b3014",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-18T15:32:44Z",
       "updated_at": "2026-11-18T15:32:45Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-freebsd"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2555324,
       "digest": "sha256:5bf543b1861a5e5f449e38a5c6902cbcef473dca4d510023c22ec707b7c9307f",
-      "download_count": 605,
+      "download_count": 671,
       "created_at": "2026-11-18T15:34:02Z",
       "updated_at": "2026-11-18T15:34:02Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueue-x86_64-unknown-linux-musl"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6171472,
       "digest": "sha256:18c377cdccb7714c5545d90cf18fcc592b17ae15d5900fe8dab2f8ca9288d6f1",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-11-18T15:55:38Z",
       "updated_at": "2026-11-18T15:55:39Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-apple-darwin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2134732,
       "digest": "sha256:0b93fbd026d8df88010189e4e2f7d300a4f16354a6e4f9b2a81ec4bd072f6797",
-      "download_count": 130,
+      "download_count": 141,
       "created_at": "2026-11-18T15:35:51Z",
       "updated_at": "2026-11-18T15:35:52Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-aarch64-unknown-linux-musl"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1965072,
       "digest": "sha256:ac2d63811759dd45e74cea7a74cbede19aaa8b9641943b227734a93c86ea7d64",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-18T15:36:03Z",
       "updated_at": "2026-11-18T15:36:03Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-arm-unknown-linux-musleabihf"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2005212,
       "digest": "sha256:02dad5522f917dcd4cc425f97863402e0785f75a653e8a04ab5546ae4c33069d",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-18T15:36:20Z",
       "updated_at": "2026-11-18T15:36:21Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-armv7-unknown-linux-musleabihf"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7336960,
       "digest": "sha256:047a0dbe0148de8fcb6ec18c503a3709b466e80ac8449f14955290f5e8196937",
-      "download_count": 90,
+      "download_count": 114,
       "created_at": "2026-11-18T15:34:48Z",
       "updated_at": "2026-11-18T15:34:48Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-pc-windows-msvc.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7179664,
       "digest": "sha256:3ed93bcb97314cbfb3066dfc9ec52dac1542da67ba97a5eff8c940c18a396989",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-18T15:32:46Z",
       "updated_at": "2026-11-18T15:32:47Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-freebsd"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2540944,
       "digest": "sha256:de73266add8b61d622bd011a078929a2a788609b7e8511fb07e9162e6977ad7e",
-      "download_count": 563,
+      "download_count": 626,
       "created_at": "2026-11-18T15:34:03Z",
       "updated_at": "2026-11-18T15:34:04Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-linux-musl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 340,
       "digest": "sha256:1b02e6a42574d0585740fedb3ae86330e6d7ab69009857cac5d0e6f157941fb3",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-11-18T15:34:05Z",
       "updated_at": "2026-11-18T15:34:05Z",
       "browser_download_url": "https://github.com/Nukesor/pueue/releases/download/v4.0.5/systemd.pueued.service"
