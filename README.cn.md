@@ -47,7 +47,7 @@ x install pueue
 
 ## 流行度
 
-- **Star**: 6,439 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
+- **Star**: 6,440 · **Fork**: 170 · **开放 issue**: 386 · **贡献者**: 48
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install pueue
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-25 | 1 | 4 | 0 | 0 | 2 | 9 |
-| 90d | 2026-08-26 | 1 | 5 | 0 | 1 | 3 | 12 |
-| last180d | 2026-05-28 | 1 | 8 | 1 | 4 | 3 | 22 |
-| 360d | 2025-11-29 | 5 | 13 | 2 | 9 | 11 | 53 |
-| last720d | 2024-12-04 | 12 | 51 | 2 | 28 | 17 | 215 |
+| 30d | 2026-10-26 | 1 | 4 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-26 | 1 | 4 | 0 | 0 | 2 | 9 |
+| 90d | 2026-08-27 | 1 | 5 | 0 | 1 | 3 | 12 |
+| last180d | 2026-05-29 | 1 | 8 | 1 | 4 | 3 | 22 |
+| 360d | 2025-11-30 | 5 | 13 | 2 | 9 | 11 | 53 |
+| last720d | 2024-12-05 | 12 | 51 | 2 | 28 | 17 | 213 |
 
 ## Release 资产
 
@@ -84,19 +84,6 @@ x install pueue
 | [pueued-x86_64-unknown-linux-musl](https://github.com/Nukesor/pueue/releases/download/v4.0.5/pueued-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
 | [systemd.pueued.service](https://github.com/Nukesor/pueue/releases/download/v4.0.5/systemd.pueued.service) | 340 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/pueue) 上共有 **73** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `4.0.5` | ✅ latest |
-| Homebrew | `4.0.5` | ✅ latest |
-| Nix unstable | `4.0.5` | ✅ latest |
-| Void | `4.0.1` | ⚠️ outdated |
-| Alpine edge | `4.0.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.4.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 pueue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pueue` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -106,4 +93,4 @@ pueue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:33:48Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:17:33Z._
